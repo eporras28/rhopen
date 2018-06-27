@@ -1,0 +1,11 @@
+
+com/informix/lang
+com/informix/util
+com/informix/asf
+META-INF/services
+com/informix/msg
+com/informix/jns
+com/informix/jdbc
+com/informix/csm/crypto
+META-INF
+com/informix/csm
